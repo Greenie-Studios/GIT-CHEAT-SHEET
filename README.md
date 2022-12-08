@@ -1,5 +1,9 @@
 # GIT
 
+To assign a commit to an issue and closed use this keywords:
+> close, closes, closed, fix, fixes, fixed, resolve, resolves, resolved
+> git commit -m "closes #1, closes #2, closes #3; YOUR COMMIT MESSAGE"
+
 > #### When there is a long terminal response, kill with q
 > #### When editing a terminal response, star editing with a
 > #### When editing a terminal response, stop editing with ESC key
